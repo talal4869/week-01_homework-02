@@ -1,6 +1,6 @@
 # week-01_homework-02
 
-##Using github and git do the following:
+## Using github and git do the following:
 - fork this repository to your own account on github.
 - clone the respository to your machine (laptop, desktop)
 - create a new swift.txt file.
